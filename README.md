@@ -1,4 +1,7 @@
+
 # 🌦️ Weather App
+
+=======
 
 A simple Python console app that fetches current weather information for any city using the [OpenWeatherMap API](https://openweathermap.org/).
 
