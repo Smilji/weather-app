@@ -1,7 +1,5 @@
-
+```markdown
 # 🌦️ Weather App
-
-=======
 
 A simple Python console app that fetches current weather information for any city using the [OpenWeatherMap API](https://openweathermap.org/).
 
@@ -15,15 +13,13 @@ A simple Python console app that fetches current weather information for any cit
 ## 🛠️ Built With
 
 - Python 3.x
-- requests (for API calls)
+- `requests` (for API calls)
 - OpenWeatherMap API
 
 ## 📦 Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Smilji/weather-app.git
-   cd weather-app
+Clone the repo:
 
-
-   Smilji
+```bash
+git clone https://github.com/Smilji/weather-app.git
+cd weather-app
