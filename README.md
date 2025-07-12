@@ -23,3 +23,4 @@ Clone the repo:
 ```bash
 git clone https://github.com/Smilji/weather-app.git
 cd weather-app
+'''
